@@ -46,4 +46,4 @@ shell scripts for setup, testing, and cleanup.
 - CPU usage above 90% triggers a critical alert
 
 ## Project Page
-https://roadmap.sh/projects/monitoring-dashboard
+https://roadmap.sh/projects/simple-monitoring-dashboard
